@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NorthSec 2019</title>
+    <description></description>
+    <link>https://nsec.io/</link>
+    <atom:link href="https://nsec.io/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Watch the videos from #nsec18</title>
+        <description>&lt;p&gt;All our conference talks are finally on YouTube for your enjoyment and edification. &lt;a href=&quot;https://www.youtube.com/playlist?list=PLuUtcRxSUZUr-bhxbiYToyB56p1i7KvLK&quot;&gt;Watch them now!&lt;/a&gt;!&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/videoseries?list=PLuUtcRxSUZUr-bhxbiYToyB56p1i7KvLK&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Also, remember that our 2018 photos are available Google Photos, &lt;a href=&quot;https://photos.app.goo.gl/y7rHWToHSNi7Xx4I2&quot;&gt;go check them out&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Don’t forget to &lt;a href=&quot;https://northsec-slack-signup.herokuapp.com/&quot;&gt;join our Slack&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/intent/user?screen_name=northsec_io&quot;&gt;follow us on Twitter&lt;/a&gt; to get the latest news.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 30 Oct 2018 09:00:00 +0000</pubDate>
+        <link>https://nsec.io/blog/nsec18-videos/</link>
+        <guid isPermaLink="true">https://nsec.io/blog/nsec18-videos/</guid>
+      </item>
+    
+      <item>
+        <title>NorthSec 2018 Pictures Are In!</title>
+        <description>&lt;p&gt;NorthSec 2018 Pictures Are In!&lt;/p&gt;
+
+&lt;p&gt;We finally published this year’s pictures on Google Photos, &lt;a href=&quot;https://photos.app.goo.gl/y7rHWToHSNi7Xx4I2&quot;&gt;check them out&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Don’t forget to &lt;a href=&quot;https://northsec-slack-signup.herokuapp.com/&quot;&gt;join our Slack&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/intent/user?screen_name=northsec_io&quot;&gt;follow us on Twitter&lt;/a&gt; to get the latest news.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 10 Jun 2018 10:00:00 +0000</pubDate>
+        <link>https://nsec.io/blog/nsec18-pictures/</link>
+        <guid isPermaLink="true">https://nsec.io/blog/nsec18-pictures/</guid>
+      </item>
+    
+      <item>
+        <title>Double the Workshops and Double the Conference Tracks!</title>
+        <description>&lt;p&gt;Big News for the 2018 Conference!&lt;/p&gt;
+
+&lt;p&gt;This year, for the first time ever, NorthSec’s Conference will feature two tracks for both Workshops and Talks.
+We have received so many good proposals that we had no choice but to find a way to accommodate all these awesome speakers.&lt;/p&gt;
+
+&lt;p&gt;It is important to keep in mind that the number of tracks will NOT drive proposal selection: it will stay the other way around, so as to ensure that our very high quality of presentations and workshops stays unaffected by this change.&lt;/p&gt;
+
+&lt;h2 id=&quot;dont-wait&quot;&gt;Don’t Wait!&lt;/h2&gt;
+
+&lt;p&gt;Don’t miss out on the LAST early bird prices, &lt;a href=&quot;https://northsec.eventbrite.ca&quot;&gt;get your tickets&lt;/a&gt; as soon as possible!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 19 Feb 2018 23:00:00 +0000</pubDate>
+        <link>https://nsec.io/blog/double-workshops-double-conference-tracks/</link>
+        <guid isPermaLink="true">https://nsec.io/blog/double-workshops-double-conference-tracks/</guid>
+      </item>
+    
+      <item>
+        <title>Welcome to NorthSec's 2018 New Website!</title>
+        <description>&lt;p&gt;As NorthSec 2018 shapes up, we’re excited to launch our new Website and open registrations and CFP at the same time.&lt;/p&gt;
+
+&lt;p&gt;This year, the event will take place in the same great venue that is the &lt;a href=&quot;/venue/&quot;&gt;Marché Bonsecours&lt;/a&gt;, in Old Montreal, Canada. As you all know, Montreal is an exceptional city, often cited as one of the best party/hedonistic city &amp;amp; regularly named as part of the best &lt;a href=&quot;https://www.tripadvisor.ca/Travel_Guide-g155032-Montreal_Quebec.html&quot;&gt;traveller’s choice&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The event continues to grow year after year, and here is what we expect for this year’s edition:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Attendance&lt;/strong&gt;: We’re expecting over 700 attendees throughout all the event.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Talks+Workshops&lt;/strong&gt;: Last year’s workshop were a great success, we’ll bring them back this year!&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Date&lt;/strong&gt;: May 14-20 2018, Pro Training Sessions May 14-15-16, Conference May 17-18, CTF May 18-19-20.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Venue&lt;/strong&gt;: Marché Bonsecours&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Speakers&lt;/strong&gt;: The &lt;a href=&quot;/cfp/&quot;&gt;CFP is already running&lt;/a&gt;, submit your great proposals!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Looking forward to seeing you all in Montreal next May!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 15 Nov 2017 08:00:00 +0000</pubDate>
+        <link>https://nsec.io/blog/new-website</link>
+        <guid isPermaLink="true">https://nsec.io/blog/new-website</guid>
+      </item>
+    
+  </channel>
+</rss>
